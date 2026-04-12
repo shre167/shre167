@@ -83,15 +83,13 @@ class Shreya:
 ---
 
 
+<div align="center">
+
 ### 📄 Resume
 
 [![View Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-7B9EFF?style=for-the-badge&labelColor=0d1117)](PASTE_YOUR_RESUME_LINK_HERE)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 🛸 Let's Connect
 
