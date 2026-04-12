@@ -83,25 +83,6 @@ class Shreya:
 ---
 
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9EFF&icon_color=7B9EFF&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9EFF&text_color=c9d1d9" height="165" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=7B9EFF&fire=FF6B6B&currStreakLabel=7B9EFF)](https://git.io/streak-stats)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=7B9EFF&line=7B9EFF&point=c9d1d9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
 ### 📄 Resume
 
 [![View Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-7B9EFF?style=for-the-badge&labelColor=0d1117)](PASTE_YOUR_RESUME_LINK_HERE)
