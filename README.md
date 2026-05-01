@@ -1,7 +1,16 @@
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:020024,50:050A30,75:0B1F5E,100:000000&height=260&section=header&text=✦%20Shreya%20Samal%20✦&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=🌌%20AI/ML%20•%20Full%20Stack%20•%20FinTech%20•%20Security%20🌌&descAlignY=62&descSize=18&animation=fadeIn"/>
+# 🌌 Among Nebulae & Galaxies
 
+<img width="100%" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
+
+### *Somewhere between stars, code, and infinite possibilities ✨*
+
+</div>
+
+---
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=⭐+Building+among+the+stars.;🚀+Engineering+the+future.;🌠+Turning+ideas+into+constellations.;🤖+AI%2FML+%2B+Full+Stack+Developer.;✨+Exploring+the+cosmos+without+limits."/>
 
 <p>
