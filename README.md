@@ -24,7 +24,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://usagif.com/wp-content/uploads/gif/outerspace-8.gif"/>
+# 🌌 Among Nebulae & Galaxies
+
+<img width="100%" src="https://usagif.com/wp-content/uploads/gif/outerspace-89.gif"/>
+
+<br><br>
 
 ### *Somewhere between stars, code, and infinite possibilities ✨*
 
@@ -34,30 +38,35 @@
 
 ```python
 class Shreya:
-
+    
     codename = "Cosmic Engineer ⭐"
-
+    
+    home_planet = "Earth 🌍"
+    
     university = "SRM Institute of Science & Technology"
-
+    
     degree = "B.Tech CSE (AI/ML)"
-
+    
     mission = [
         "Artificial Intelligence",
         "Machine Learning",
         "Full Stack Development",
-        "FinTech",
+        "FinTech Innovation",
         "Cybersecurity"
     ]
-
+    
+    superpower = "Turning ambitious ideas into realities"
+    
     current_orbit = "Exploring infinite possibilities 🌌"
 ```
 
 # ✨ Cosmic Mission Log
 
 ⭐ Pursuing **B.Tech CSE (AI/ML)** at **SRM Institute of Science & Technology**  
-⭐ Building intelligent systems with real-world impact  
-⭐ Exploring **AI**, **FinTech**, **Security**, and scale  
-⭐ Inspired by the cosmos and the future of technology  
+⭐ Building intelligent systems that solve real-world challenges  
+⭐ Passionate about **AI**, **FinTech**, **Security**, and scalable engineering  
+⭐ Constantly learning, experimenting, and building impactful products  
+⭐ Inspired by both the universe above and the future ahead  
 
 ---
 
@@ -65,7 +74,21 @@ class Shreya:
 
 # 🌠 Constellation of Skills
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,mysql,tensorflow,pytorch,react,nextjs,nodejs,fastapi,mongodb,postgres,docker,git,linux,aws"/>
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,mysql"/>
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+### Full Stack Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,mongodb,postgres"/>
+
+### DevOps & Engineering
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,aws,figma,vscode"/>
 
 </div>
 
@@ -89,6 +112,30 @@ class Shreya:
 
 <div align="center">
 
+# 🏆 Stellar Milestones
+
+<img src="https://github-profile-trophy.vercel.app/?username=shre167&theme=tokyonight&row=1&column=6&no-frame=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌠 Current Orbit
+
+🧠 Reinforcement Learning  
+☁️ Cloud Architecture  
+🔐 Security Engineering  
+💸 Financial Intelligence Systems  
+⚡ Distributed Systems  
+
+</div>
+
+---
+
+<div align="center">
+
 <img width="100%" src="https://usagif.com/wp-content/uploads/gif/outerspace-69.gif"/>
 
 </div>
@@ -96,6 +143,22 @@ class Shreya:
 ---
 
 <div align="center">
+
+# 📡 Deep Space Transmission
+
+<a href="https://www.linkedin.com/in/shreya-samal-357203280">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="mailto:shreysamal101@gmail.com">
+<img src="https://img.shields.io/badge/Email-Transmit-EA4335?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/shre167">
+<img src="https://img.shields.io/badge/GitHub-Explore-0D1117?style=for-the-badge"/>
+</a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=shre167&style=flat-square&color=FFD700&label=Cosmic+Visitors"/>
 
