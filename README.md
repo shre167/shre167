@@ -34,7 +34,7 @@
 
 <img width="100%" src="https://usagif.com/wp-content/uploads/gif/outerspace-89.gif"/>
 
-<br><br>
+<br>
 
 ### *Somewhere between stars, code, and infinite possibilities ✨*
 
