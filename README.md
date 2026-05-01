@@ -60,7 +60,7 @@ class Shreya:
 | 🎓 | Pursuing **B.Tech CSE (AI/ML)** at **SRM Institute of Science & Technology** |
 | 🤖 | Building intelligent systems that solve **real-world challenges** |
 | 💡 | Passionate about **AI**, **FinTech**, **Security**, and scalable engineering |
-| 🔭 | Constantly learning, experimenting, and shipping **impactful products** |
+| 🔭 | Always Curious, Constantly learning, experimenting, and shipping **impactful products** |
 | 🌠 | Bridging the gap between **theoretical AI** and real-world deployment |
 | 🚀 | Inspired by both the **universe above** and the future ahead |
 
@@ -109,8 +109,6 @@ class Shreya:
 <div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shre167&theme=tokyonight&hide_border=true&background=00000a&ring=00e5ff&fire=b040ff&currStreakLabel=00e5ff"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shre167&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000a&title_color=00e5ff&icon_color=b040ff"/>
-
 <br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shre167&theme=tokyo-night&bg_color=00000a&color=00e5ff&line=b040ff&point=ffffff&hide_border=true"/>
