@@ -106,7 +106,7 @@ class Shreya:
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shre167&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shre167&theme=tokyo-night"/>
 
