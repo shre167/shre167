@@ -112,8 +112,6 @@ class Shreya:
 
 </div>
 
----
-
 <div align="center">
 
 # 🏆 Stellar Milestones
