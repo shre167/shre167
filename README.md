@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-⭐ Building among the stars • 🚀 Engineering the future • 🌌 Exploring without limits ⭐
+⭐ Building among the stars • 🚀 Always Curious and Learning• 🌌 Exploring without limits ⭐
 
 </h3>
 
