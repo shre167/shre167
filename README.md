@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050A30,70:0B1F5E,100:000000&height=260&section=header&text=✦%20Shreya%20Samal%20✦&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=🌌%20AI/ML%20•%20Full%20Stack%20•%20FinTech%20•%20Security%20🌌&descAlignY=62&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:020024,50:050A30,75:0B1F5E,100:000000&height=260&section=header&text=✦%20Shreya%20Samal%20✦&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=🌌%20AI/ML%20•%20Full%20Stack%20•%20FinTech%20•%20Security%20🌌&descAlignY=62&descSize=18&animation=fadeIn"/>
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=⭐+Building+among+the+stars.;🚀+Engineering+the+future.;🌠+Turning+ideas+into+constellations.;🤖+AI%2FML+%2B+Full+Stack+Developer.;✨+Exploring+the+cosmos+without+limits."/>
 
@@ -26,9 +26,11 @@
 
 # 🌌 Among Nebulae & Galaxies
 
-<img width="100%" src="https://images-assets.nasa.gov/image/potw2041a/potw2041a~orig.jpg"/>
+<img width="100%" src="https://usagif.com/wp-content/uploads/gif/outerspace-89.gif"/>
 
-### *The Pillars of Creation — inspiration from the universe itself ✨*
+<br><br>
+
+### *Somewhere between stars, code, and infinite possibilities ✨*
 
 </div>
 
@@ -39,7 +41,7 @@ class Shreya:
     
     codename = "Cosmic Engineer ⭐"
     
-    planet = "Earth 🌍"
+    home_planet = "Earth 🌍"
     
     university = "SRM Institute of Science & Technology"
     
@@ -63,8 +65,8 @@ class Shreya:
 ⭐ Pursuing **B.Tech CSE (AI/ML)** at **SRM Institute of Science & Technology**  
 ⭐ Building intelligent systems that solve real-world challenges  
 ⭐ Passionate about **AI**, **FinTech**, **Security**, and scalable engineering  
-⭐ Constantly learning, building, experimenting, and pushing boundaries  
-⭐ Inspired by both the cosmos above and technology ahead  
+⭐ Constantly learning, experimenting, and building impactful products  
+⭐ Inspired by both the universe above and the future ahead  
 
 ---
 
@@ -100,6 +102,8 @@ class Shreya:
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shre167&theme=tokyonight&hide_border=true"/>
 
+<br><br>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shre167&theme=tokyo-night"/>
 
 </div>
@@ -118,13 +122,21 @@ class Shreya:
 
 <div align="center">
 
-# 🌍 Current Orbit
+# 🌠 Current Orbit
 
 🧠 Reinforcement Learning  
 ☁️ Cloud Architecture  
 🔐 Security Engineering  
 💸 Financial Intelligence Systems  
 ⚡ Distributed Systems  
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://usagif.com/wp-content/uploads/gif/outerspace-69.gif"/>
 
 </div>
 
@@ -150,6 +162,6 @@ class Shreya:
 
 <img src="https://komarev.com/ghpvc/?username=shre167&style=flat-square&color=FFD700&label=Cosmic+Visitors"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050A30,70:0B1F5E,100:000000&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:020024,50:050A30,75:0B1F5E,100:000000&height=140&section=footer"/>
 
 </div>
