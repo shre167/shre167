@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,70:000428,100:020024&height=260&section=header&text=✦%20Shreya%20Samal%20✦&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=⭐%20AI/ML%20•%20Full%20Stack%20•%20FinTech%20•%20Security%20⭐&descAlignY=62&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050A30,70:0B1F5E,100:000000&height=260&section=header&text=✦%20Shreya%20Samal%20✦&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=🌌%20AI/ML%20•%20Full%20Stack%20•%20FinTech%20•%20Security%20🌌&descAlignY=62&descSize=18&animation=fadeIn"/>
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=⭐+Building+among+the+stars.;🚀+Engineering+the+future.;🌌+Turning+ideas+into+constellations.;🤖+AI%2FML+%2B+Full+Stack+Developer.;✨+Always+exploring+the+cosmos."/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=⭐+Building+among+the+stars.;🚀+Engineering+the+future.;🌠+Turning+ideas+into+constellations.;🤖+AI%2FML+%2B+Full+Stack+Developer.;✨+Exploring+the+cosmos+without+limits."/>
 
 <p>
 <a href="https://www.linkedin.com/in/shreya-samal-357203280">
@@ -24,18 +24,22 @@
 
 <div align="center">
 
-# ✨ Lost in the Stars
+# 🌌 Among Nebulae & Galaxies
 
-<img width="85%" src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif"/>
+<img width="100%" src="https://images-assets.nasa.gov/image/potw2041a/potw2041a~orig.jpg"/>
+
+### *The Pillars of Creation — inspiration from the universe itself ✨*
 
 </div>
+
+---
 
 ```python
 class Shreya:
     
-    codename = "Star Engineer ⭐"
+    codename = "Cosmic Engineer ⭐"
     
-    location = "Earth 🌍"
+    planet = "Earth 🌍"
     
     university = "SRM Institute of Science & Technology"
     
@@ -49,38 +53,38 @@ class Shreya:
         "Cybersecurity"
     ]
     
-    superpower = "Turning ideas into constellations ✨"
+    superpower = "Turning ambitious ideas into realities"
     
-    status = "Currently exploring the infinite cosmos 🌌"
+    current_orbit = "Exploring infinite possibilities 🌌"
 ```
 
-# 🌠 Star Log
+# ✨ Cosmic Mission Log
 
 ⭐ Pursuing **B.Tech CSE (AI/ML)** at **SRM Institute of Science & Technology**  
-⭐ Building intelligent systems with real-world impact  
-⭐ Exploring **FinTech**, **AI**, and **Cybersecurity**  
-⭐ Passionate about scalable systems and innovation  
-⭐ Always learning. Always building. Always reaching higher.  
+⭐ Building intelligent systems that solve real-world challenges  
+⭐ Passionate about **AI**, **FinTech**, **Security**, and scalable engineering  
+⭐ Constantly learning, building, experimenting, and pushing boundaries  
+⭐ Inspired by both the cosmos above and technology ahead  
 
 ---
 
 <div align="center">
 
-# 🌌 Constellation of Skills
+# 🌠 Constellation of Skills
 
 ### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,mysql"/>
 
-### AI / ML
+### AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-### Full Stack
+### Full Stack Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,mongodb,postgres"/>
 
-### DevOps & Tools
+### DevOps & Engineering
 
 <img src="https://skillicons.dev/icons?i=docker,git,linux,aws,figma,vscode"/>
 
@@ -90,7 +94,7 @@ class Shreya:
 
 <div align="center">
 
-# ⭐ Cosmic Activity
+# 🌌 Galactic Activity
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shre167&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -104,7 +108,7 @@ class Shreya:
 
 <div align="center">
 
-# 🏆 Stellar Achievements
+# 🏆 Stellar Milestones
 
 <img src="https://github-profile-trophy.vercel.app/?username=shre167&theme=tokyonight&row=1&column=6&no-frame=true"/>
 
@@ -114,7 +118,7 @@ class Shreya:
 
 <div align="center">
 
-# 🌟 Current Orbit
+# 🌍 Current Orbit
 
 🧠 Reinforcement Learning  
 ☁️ Cloud Architecture  
@@ -128,7 +132,7 @@ class Shreya:
 
 <div align="center">
 
-# 📡 Contact the Mothership
+# 📡 Deep Space Transmission
 
 <a href="https://www.linkedin.com/in/shreya-samal-357203280">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"/>
@@ -144,8 +148,8 @@ class Shreya:
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shre167&style=flat-square&color=FFD700&label=Star+Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=shre167&style=flat-square&color=FFD700&label=Cosmic+Visitors"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,70:000428,100:020024&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050A30,70:0B1F5E,100:000000&height=140&section=footer"/>
 
 </div>
